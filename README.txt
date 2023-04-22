@@ -1,7 +1,11 @@
 URL shortener by Colter Smith
 
-This a simple URL shortener.  The frontend is in React and
-runs on localhost:3000.  It can be started with 'npm start'.
+This a simple URL shortener.
+
+The frontend is in React and runs on localhost:3000.
+'npm install' must be run before the frontend is started.
+It can be started with 'npm start'.
+
 The backend is in Node and runs on localhost:3001.  It can
 be started with 'npm start'
 
